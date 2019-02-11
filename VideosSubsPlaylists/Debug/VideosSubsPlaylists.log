@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(236): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(260): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(344): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(357): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(358): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(375): warning C4018: '<': signed/unsigned mismatch
+c:\users\farishasković\documents\visual studio 2015\projects\videossubsplaylists\videossubsplaylists\source.cpp(446): warning C4018: '<': signed/unsigned mismatch
+  VideosSubsPlaylists.vcxproj -> c:\users\farishasković\documents\visual studio 2015\Projects\VideosSubsPlaylists\Debug\VideosSubsPlaylists.exe
